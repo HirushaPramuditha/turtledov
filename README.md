@@ -1,7 +1,6 @@
 # TurtleDov
 
 ![GitHub](https://img.shields.io/github/license/HirushaPramuditha/turtledov)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/HirushaPramuditha/turtledov)
 
 Learn Python the creative way
 

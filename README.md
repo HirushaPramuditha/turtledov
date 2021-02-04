@@ -1,5 +1,6 @@
 # TurtleDov
 
+![PyPI](https://img.shields.io/pypi/v/turtledov?color=blue)
 ![GitHub](https://img.shields.io/github/license/HirushaPramuditha/turtledov)
 
 Learn Python the creative way

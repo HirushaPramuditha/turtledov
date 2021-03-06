@@ -1,6 +1,9 @@
 # TurtleDov
 
 ![PyPI](https://img.shields.io/pypi/v/turtledov?color=blue)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/turtledov)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/turtledov)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/turtledov)
 ![GitHub](https://img.shields.io/github/license/HirushaPramuditha/turtledov)
 
 Learn Python the creative way

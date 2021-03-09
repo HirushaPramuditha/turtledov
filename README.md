@@ -44,4 +44,4 @@ end()
 
 You should use `start()` at the start and `end()` at the end
 
-You can see a full list of funtions [here](https://gist.github.com/HirushaPramuditha/5a63ff7b4b0c767ec95190f04dd73340)
+You can see a full list of functions [here](https://gist.github.com/HirushaPramuditha/5a63ff7b4b0c767ec95190f04dd73340)

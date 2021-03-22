@@ -2,7 +2,7 @@
 
 ![PyPI](https://img.shields.io/pypi/v/turtledov?color=blue)
 [![Downloads](https://pepy.tech/badge/turtledov)](https://pepy.tech/project/turtledov)
-<img src="https://img.shields.io/static/v1?label=python&message=3.6 | 3.7 | 3.8 | 3.9&color=blue">
+![PyPI - Python Version](https://img.shields.io/static/v1?label=python&message=3.6 | 3.7 | 3.8 | 3.9&color=blue)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/turtledov)
 ![GitHub](https://img.shields.io/github/license/HirushaPramuditha/turtledov)
 
